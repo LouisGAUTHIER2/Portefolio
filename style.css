@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(32, 32, 32);
     color: white;
     font-family: sans-serif;
     margin: 0;
@@ -26,6 +26,10 @@ footer {
     margin: 0px;
     align-items: center;      /* Centers elements vertically */
     gap: 12px;
+}
+
+header {
+    margin-bottom: 150px;
 }
 
 img {
