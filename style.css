@@ -37,7 +37,7 @@ img {
 }
 
 /* Enlarged main container to give everything room to breathe */
-.mainBox {
+body {
     width: 90%;
     max-width: 1200px;
     margin: auto;
